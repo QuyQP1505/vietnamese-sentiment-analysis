@@ -1,0 +1,46 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.13",
+    "heartbeatAt": "2024-03-25T06:39:36.417592",
+    "startedAt": "2024-03-25T06:39:35.377771",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "QuyQP-Laptop",
+    "username": "quynd",
+    "executable": "c:\\Users\\quynd\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2292.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2292.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 476.92284774780273,
+            "used": 438.2679443359375
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 31.853134155273438
+    }
+}

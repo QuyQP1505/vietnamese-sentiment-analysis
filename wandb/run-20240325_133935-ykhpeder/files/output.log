@@ -1,0 +1,248 @@
+100%|██████████| 8/8 [00:01<00:00,  5.92it/s]
+  warnings.warn( 0/2 [00:00<?, ?it/s]
+
+100%|██████████| 8/8 [00:03<00:00,  4.45it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  5.45it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.88it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  6.17it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.70it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.82it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.45it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  4.63it/s]
+100%|██████████| 2/2 [00:00<00:00, 57.14it/s]
+100%|██████████| 8/8 [00:42<00:00,  5.45it/s]
+100%|██████████| 2/2 [00:40<00:00, 20.26s/it]
+{'eval_loss': 0.6639906167984009, 'eval_mse': 0.22511836886405945, 'eval_runtime': 0.067, 'eval_samples_per_second': 29.85, 'eval_steps_per_second': 29.85, 'epoch': 1.0}
+
+  0%|          | 0/2 [00:00<?, ?it/s].26s/it]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.87it/s]
+100%|██████████| 8/8 [00:01<00:00,  6.13it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.97it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.99it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+[notice] A new release of pip is available: 23.3.2 -> 24.0
+[notice] To update, run: python.exe -m pip install --upgrade pip
+Downloading builder script: 100%|██████████| 4.20k/4.20k [00:00<00:00, 4.21MB/s]
+100%|██████████| 8/8 [01:30<00:00, 11.37s/it]
+                                     c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Downloading builder script:   0%|          | 0.00/4.20k [00:00<?, ?B/s]
+100%|██████████| 8/8 [00:01<00:00,  6.11it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  5.48it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+[[-0.05957877 -0.15958877 -0.11219515 -0.07486983 -0.0067551 ]
+ [-0.05299367 -0.14387791 -0.14167117 -0.19489954 -0.04970364]] [[0. 0. 0. 0. 1.]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.92it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  6.10it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+[array([[-0.06306801, -0.17133616, -0.12214606, -0.08575906, -0.00244597],
+       [-0.05607073, -0.15440471, -0.15176535, -0.20659263, -0.04488766]],
+      dtype=float32), array([[0., 0., 0., 0., 1.],
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  6.23it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.71it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+predictions
+label_ids
+inputs
+100%|██████████| 8/8 [00:01<00:00,  5.26it/s]
+100%|██████████| 8/8 [00:01<00:00,  6.10it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.70it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  5.97it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.72it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.46it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  6.09it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  6.12it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  5.57it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  6.13it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  6.15it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+100%|██████████| 8/8 [00:01<00:00,  4.84it/s]
+  warnings.warn( 0/2 [00:00<?, ?it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.80it/s]
+
+100%|██████████| 8/8 [00:01<00:00,  6.28it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+100%|██████████| 8/8 [00:01<00:00,  5.44it/s]
+  0%|          | 0/2 [00:00<?, ?it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.44it/s]
+  warnings.warn(                     .44it/s]
+  warnings.warn(                     .44it/s]
+  warnings.warn(                     .44it/s]
+ 38%|███▊      | 3/8 [00:00<00:01,  4.11it/s]
+100%|██████████| 8/8 [00:01<00:00,  6.20it/s]
+100%|██████████| 8/8 [00:01<00:00,  6.20it/s]
+  warnings.warn(                     .20it/s]
+  warnings.warn(                     .20it/s]
+  warnings.warn(                     .20it/s]
+MSE: [0.2221246, 0.2507144]
+0
+[0. 0. 0. 0. 1.]
+ 88%|████████▊ | 7/8 [00:01<00:00,  5.84it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.68it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.68it/s]
+MSE: [0.22288367, 0.25170884]
+0
+[0. 0. 0. 0. 1.]
+  warnings.warn(                     .68it/s]
+  warnings.warn(                     .68it/s]
+MSE: [0.22362956, 0.25270307]
+0
+5
+4
+  0%|          | 0/8 [00:00<?, ?it/s].68it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.41it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.41it/s]
+MSE: [0.2245851, 0.2538944]
+0
+5
+  warnings.warn(                     .41it/s]
+  warnings.warn(                     .41it/s]
+  warnings.warn(                     .41it/s]
+MSE: [0.22543366, 0.2550016]
+0
+4
+  0%|          | 0/8 [00:00<?, ?it/s].41it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.62it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.62it/s]
+MSE: [0.2263892, 0.2562212]
+0
+  warnings.warn(                     .62it/s]
+  warnings.warn(                     .62it/s]
+  warnings.warn(                     .62it/s]
+MSE: [0.22728422, 0.25739363]
+4
+4
+4
+4
+ 75%|███████▌  | 6/8 [00:01<00:00,  5.28it/s]
+ 75%|███████▌  | 6/8 [00:01<00:00,  5.28it/s]
+MSE: [0.22816749, 0.25856858]
+4
+100%|██████████| 8/8 [00:01<00:00,  5.78it/s]
+  warnings.warn(                     .78it/s]
+  warnings.warn(                     .78it/s]
+  warnings.warn(                     .78it/s]
+MSE: [0.22925535, 0.25993443]
+4
+100%|██████████| 8/8 [00:01<00:00,  5.87it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.87it/s]
+MSE: [0.23023637, 0.2612187]
+  warnings.warn(                     .87it/s]
+  warnings.warn(                     .87it/s]
+MSE: [0.23133437, 0.2626233]
+accuracy: 0.0
+ 88%|████████▊ | 7/8 [00:01<00:00,  5.71it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.39it/s]
+100%|██████████| 8/8 [00:01<00:00,  5.39it/s]
+MSE: [0.23235795, 0.2639699]
+4
+0
+4
+0
+  warnings.warn(                     .39it/s]
+  warnings.warn(                     .39it/s]
+  warnings.warn(                     .39it/s]
+MSE: [0.23336904, 0.26531947]
+4
+4
+0
+==================================================
+0
+4
+4
+0
+==================================================
+0
+  0%|          | 0/8 [00:00<?, ?it/s].39it/s]
+  0%|          | 0/8 [00:00<?, ?it/s].39it/s]
+MSE: [0.23457375, 0.26684862]
+4
+4
+4
+==================================================
+1
+4
+4
+4
+==================================================
+1
+100%|██████████| 8/8 [00:01<00:00,  5.29it/s]
+  warnings.warn(                     .29it/s]
+  warnings.warn(                     .29it/s]
+MSE: [0.23567525, 0.26830003]
+1
+1
+accuracy: 1.0
+ 50%|█████     | 4/8 [00:01<00:00,  4.59it/s]
+ 50%|█████     | 4/8 [00:01<00:00,  4.59it/s]
+MSE: [0.23684902, 0.2698354]
+1
+1
+100%|██████████| 8/8 [00:01<00:00,  5.70it/s]
+                                     .70it/s]
+                                     .70it/s]
+MSE: [0.23799202, 0.2713476]
+  warnings.warn(                     .70it/s]
+ 38%|███▊      | 3/8 [00:00<00:01,  4.55it/s]
+ 38%|███▊      | 3/8 [00:00<00:01,  4.55it/s]
+MSE: [0.23914096, 0.2728767]
+accuracy: 1.0
+4 4
+100%|██████████| 8/8 [00:01<00:00,  5.37it/s]
+  warnings.warn(                     .37it/s]
+  warnings.warn(                     .37it/s]
+MSE: [0.24046846, 0.2745671]
+accuracy: 1.0
+ 88%|████████▊ | 7/8 [00:01<00:00,  5.48it/s]
+ 88%|████████▊ | 7/8 [00:01<00:00,  5.48it/s]
+{'eval_loss': 0.5745505094528198, 'eval_mse': 0.2589452862739563, 'eval_accuracy': 0.0, 'eval_f1_score': 0.0, 'eval_runtime': 0.119, 'eval_samples_per_second': 16.807, 'eval_steps_per_second': 16.807, 'epoch': 1.0}
+100%|██████████| 8/8 [00:01<00:00,  5.66it/s]
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+{'eval_loss': 0.5730998516082764, 'eval_mse': 0.2605004608631134, 'eval_accuracy': 1.0, 'eval_f1_score': 1.0, 'eval_runtime': 0.072, 'eval_samples_per_second': 27.777, 'eval_steps_per_second': 27.777, 'epoch': 1.0}
+100%|██████████| 2/2 [00:00<00:00, 54.05it/s]]ython39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+- This IS NOT expected if you are initializing RobertaForSequenceClassification from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model)..AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+c:\Users\quynd\AppData\Local\Programs\Python\Python39\lib\site-packages\transformers\optimization.py:411: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
